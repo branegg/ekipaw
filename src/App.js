@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn nie Dupa
+          Learn Dupa <br />
+          Learn fiuta
         </a>
       </header>
     </div>
