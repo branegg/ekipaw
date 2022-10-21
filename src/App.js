@@ -15,6 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          Learn nie Dupa
           Learn Dupa <br />
           Learn fiuta
         </a>
